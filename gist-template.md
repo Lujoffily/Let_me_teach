@@ -24,7 +24,16 @@ Specific Regular Expression also known as REGEX, are powerful tools that develop
 
 ### Anchors
 
+Anchors in regex are `^` and `$`. The anchors tells you the exact position in the string in which the march must occur.
+
+° `^` asserts the start of the string.
+° `$` asserts the end of the string.
+
 ### Quantifiers
+
+Qantifiers specify how many time in the preceding element should be matched.
+
+° `+` matches one or more occurrences of the preceding element ([A-Za-z0-9] in this case).
 
 ### OR Operator
 
