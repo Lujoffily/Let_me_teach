@@ -4,7 +4,7 @@ Specific Regular Expression also known as REGEX, are powerful tools that develop
 
 ## Summary
 
-Briefly summarize the regex you will be describing and what you will explain. Include a code snippet of the regex. Replace this text with your summary.
+`/^[A-Za-z0-9]+$/` is the regular expression and will be explained in this tutorial, this regular expression matches strings containing only alphanumeric characters. Each part of the regex will be broken down into parts and  dissect it and will give explations.
 
 ## Table of Contents
 
